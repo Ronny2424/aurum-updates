@@ -1,0 +1,7 @@
+{
+  "versionName": "0.6.65",
+  "versionCode": 83,
+  "downloadUrl": "https://github.com/Ronny2424/aurum-updates/releases/download/v0.6.65/AURUM_0.6.65.apk?download=1",
+  "notes": "# AURUM 0.6.65\n\n- Neu gebautes Kalender- und Erinnerungsupdate mit überarbeitetem Updateabruf gegen HTTP-504-Fehler.\n- Versionsprüfung über einen zusätzlichen öffentlichen Manifest-Spiegel und die GitHub-Schnittstelle; Downloadadressen umgehen veraltete Zwischenspeicher.\n- APK direkt in AURUM herunterladen, mit Ausweichweg bei fehlgeschlagenem Abruf und sichtbarem Fortschritt.\n- Vor der Android-Installation werden vollständiger Download, SHA-256-Prüfsumme, Paketkennung, neue Versionsnummer und der bisherige Signaturschlüssel geprüft. Android verlangt weiterhin die Installationsbestätigung und gegebenenfalls die Freigabe für Installationen aus AURUM.\n- Alle Kalender- und Erinnerungsfunktionen aus 0.6.64 bleiben enthalten. Bestehende App-Daten, Speicherkennungen und der bisherige Signaturschlüssel bleiben erhalten.\n\nDie bereits installierte ältere Version kann nicht rückwirkend repariert werden. Wenn deren Updateprüfung weiterhin scheitert, ist einmalig der neue direkte APK-Link erforderlich. Kein physischer Gerätetest durchgeführt.",
+  "sha256": "611c065c5f75e6646d973603c77f96dba08a5ba1ad7b2a44f3bc0728594249de"
+}
